@@ -16,7 +16,7 @@ const PORT = process.env.PORT;
 const allowedOrigins = [
   'http://localhost:3000',
   'http://localhost:5173', // Vite (optional)
-  'https://your-deployed-frontend.com', // Add your prod URL here
+  'https://notes-app-client-mtvc.onrender.com', // Add your prod URL here
 ];
 
 // ✅ Middleware
